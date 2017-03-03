@@ -1,0 +1,2 @@
+ToolSet: 3.22@D:\Software\tools\MinGW
+CMake: 3.6.3@D:\Software\tools\cmake-3.6.3\bin\cmake.exe

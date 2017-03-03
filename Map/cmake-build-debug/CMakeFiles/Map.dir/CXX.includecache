@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/WorkSpaces/CLion/DB/Map/CMap.cpp
+iostream
+-
+cstring
+-
+CMap.h
+D:/WorkSpaces/CLion/DB/Map/CMap.h
+
+D:/WorkSpaces/CLion/DB/Map/CMap.h
+Node.h
+D:/WorkSpaces/CLion/DB/Map/Node.h
+Edge.h
+D:/WorkSpaces/CLion/DB/Map/Edge.h
+vector
+-
+iostream
+-
+
+D:/WorkSpaces/CLion/DB/Map/Edge.cpp
+Edge.h
+D:/WorkSpaces/CLion/DB/Map/Edge.h
+
+D:/WorkSpaces/CLion/DB/Map/Edge.h
+
+D:/WorkSpaces/CLion/DB/Map/Node.cpp
+Node.h
+D:/WorkSpaces/CLion/DB/Map/Node.h
+
+D:/WorkSpaces/CLion/DB/Map/Node.h
+
+D:/WorkSpaces/CLion/DB/Map/main.cpp
+iostream
+-
+

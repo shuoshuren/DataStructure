@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tree"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/WorkSpaces/CLion/DB/tree/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tree">
+				<Option output="D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/tree.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/WorkSpaces/CLion/DB/tree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\software\tools\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="d:\software\tools\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="d:\software\tools\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="d:\software\tools\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="d:\software\tools\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="d:\software\tools\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 tree"/>
+					<CompileFile command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tree/fast">
+				<Option output="D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/tree.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/WorkSpaces/CLion/DB/tree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\software\tools\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="d:\software\tools\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="d:\software\tools\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="d:\software\tools\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="d:\software\tools\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="d:\software\tools\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 tree/fast"/>
+					<CompileFile command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/WorkSpaces/CLion/DB/tree/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/WorkSpaces/CLion/DB/tree/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/tools/MinGW/bin/mingw32-make.exe -f &quot;D:/WorkSpaces/CLion/DB/tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/WorkSpaces/CLion/DB/tree/LinkedTree.cpp">
+			<Option target="tree"/>
+		</Unit>
+		<Unit filename="D:/WorkSpaces/CLion/DB/tree/LinkedTree.h">
+			<Option target="tree"/>
+		</Unit>
+		<Unit filename="D:/WorkSpaces/CLion/DB/tree/Node.cpp">
+			<Option target="tree"/>
+		</Unit>
+		<Unit filename="D:/WorkSpaces/CLion/DB/tree/Node.h">
+			<Option target="tree"/>
+		</Unit>
+		<Unit filename="D:/WorkSpaces/CLion/DB/tree/Tree.cpp">
+			<Option target="tree"/>
+		</Unit>
+		<Unit filename="D:/WorkSpaces/CLion/DB/tree/Tree.h">
+			<Option target="tree"/>
+		</Unit>
+		<Unit filename="D:/WorkSpaces/CLion/DB/tree/main.cpp">
+			<Option target="tree"/>
+		</Unit>
+		<Unit filename="D:/WorkSpaces/CLion/DB/tree/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
